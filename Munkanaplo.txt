@@ -1,5 +1,5 @@
-Tuskán Bence && Papp Dani && Zsebeházi Máté - 2020.02.13 - Alap beléptetés és regisztrálás implementácio
+TuskÃ¡n Bence && Papp Dani && ZsebehÃ¡zi MÃ¡tÃ© - 2020.02.13 - Alap belÃ©ptetÃ©s Ã©s regisztrÃ¡lÃ¡s implementÃ¡cio
 
-Tuskán Bence && Papp Dani - 2020.02.18 - Összes mechanism beépitése
+TuskÃ¡n Bence && Papp Dani - 2020.02.18 - Ã–sszes mechanism beÃ©pitÃ©se
 
-Zsebeházi Máté - 2020.02.19 - Web design kidolgozásának elkezdése
+ZsebehÃ¡zi MÃ¡tÃ© - 2020.02.19 - Web design kidolgozÃ¡sa + nÃ©hÃ¡ny hiba kijavÃ­tÃ¡sa
