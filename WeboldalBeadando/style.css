@@ -1,0 +1,216 @@
+body {
+    background-color: #AE7DFF;
+}
+
+#frame {
+    width: 100%;
+    height: 100%;
+    background-color: #CBACFF;
+}
+
+.sticker {
+    width: 100%;
+    height: 110px;
+    position: sticky;
+    top: 0;
+    background-color: #AE7DFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.left {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+}
+
+.right {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+}
+
+.logreg {
+    position: absolute;
+    right: 0;
+    background-color: #AE7DFF;
+}
+
+.menubuttons {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.texbox {
+    width: 100%;
+}
+
+label {
+    color: #2B0072;
+}
+
+.button {
+    border: solid #CBACFF 1px;
+    background-color: #2B0072;
+    color: #AE7DFF;
+    height: 50px;
+    min-width: 100px;
+    max-width: 120px;
+}
+
+.button:hover {
+    border: solid #2B0072 1px;
+    background-color: #CBACFF;
+    color: #2B0072;
+}
+
+.button:disabled {
+    background-color: #60006D;
+    color: #F4A5FF;
+}
+
+.logreg_button {
+    border: solid #CBACFF 1px;
+    background-color: #2B0072;
+    color: #AE7DFF;
+    height: 25px;
+    width: 50%;
+}
+
+.logreg_button:hover {
+    border: solid #2B0072 1px;
+    background-color: #CBACFF;
+    color: #2B0072;
+}
+
+.logoutbutton {
+    border: solid #CBACFF 1px;
+    background-color: #2B0072;
+    color: #AE7DFF;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    height: 50px;
+    min-width: 100px;
+}
+
+.logoutbutton:hover {
+    border: solid #2B0072 1px;
+    background-color: #CBACFF;
+    color: #2B0072;
+}
+
+.pitcurebox {
+    margin-right: auto;
+    margin-left: auto;
+    height: 50%;
+    max-height: 500px;
+    width: 50%;
+    max-width: 500px;
+}
+
+.pitcurebox img {
+    width: 100%;
+    max-width: 500px;
+    height: 100%;
+    max-height: 500px;
+}
+
+.welcome {
+    margin-top: 0.2cm;
+    color: #2B0072;
+    font-size: 30pt;
+}
+
+#rainbow {
+    animation: rainbow 2.5s linear;
+    animation-iteration-count: infinite;
+}
+
+.upbox {
+    width: 50%;
+    height: 50%;
+    max-width: 400px;
+    max-height: 300px;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40pt;
+}
+
+.adminbox {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16pt;
+}
+
+td,
+tr,
+th,
+table {
+    border: 3px solid #2B0072;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td,
+tr,
+th {
+    height: 1cm;
+    width: 10cm;
+    text-align: center;
+}
+
+tr:hover {
+    background-color: #CBACFF;
+    color: #2B0072;
+}
+
+.paros {
+    background-color: #2B0072;
+    color: #AE7DFF;
+}
+
+@keyframes rainbow {
+    100%,
+    0% {
+        background-color: rgb(255, 0, 0);
+    }
+    8% {
+        background-color: rgb(255, 127, 0);
+    }
+    16% {
+        background-color: rgb(255, 255, 0);
+    }
+    25% {
+        background-color: rgb(127, 255, 0);
+    }
+    33% {
+        background-color: rgb(0, 255, 0);
+    }
+    41% {
+        background-color: rgb(0, 255, 127);
+    }
+    50% {
+        background-color: rgb(0, 255, 255);
+    }
+    58% {
+        background-color: rgb(0, 127, 255);
+    }
+    66% {
+        background-color: rgb(0, 0, 255);
+    }
+    75% {
+        background-color: rgb(127, 0, 255);
+    }
+    83% {
+        background-color: rgb(255, 0, 255);
+    }
+    91% {
+        background-color: rgb(255, 0, 127);
+    }
+}
