@@ -3,3 +3,5 @@ Tuskán Bence && Papp Dani && Zsebeházi Máté - 2020.02.13 - Alap beléptetés
 Tuskán Bence && Papp Dani - 2020.02.18 - Összes mechanism beépitése
 
 Zsebeházi Máté - 2020.02.19 - Web design kidolgozása + néhány hiba kijavítása
+
+Tuskán Bence && Papp Dani && Zsebeházi Máté - Version 1.0 feltöltése
